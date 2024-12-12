@@ -23,6 +23,6 @@ export class GameCodeComponent {
   }
 
   goBack(): void {
-    console.log('Regresando...');
+    console.log('Regresando..');
   }
 }
